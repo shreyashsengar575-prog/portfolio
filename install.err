@@ -1,0 +1,22 @@
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: postprocessing@6.39.2
+npm warn Found: three@0.166.1
+npm warn node_modules/three
+npm warn   three@"^0.166.1" from the root project
+npm warn   14 more (camera-controls, maath, meshline, three-mesh-bvh, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer three@">= 0.168.0 < 0.186.0" from postprocessing@6.39.2
+npm warn node_modules/@react-three/postprocessing/node_modules/postprocessing
+npm warn   postprocessing@"^6.32.1" from @react-three/postprocessing@2.19.1
+npm warn   node_modules/@react-three/postprocessing
+npm warn   1 more (n8ao)
+npm warn
+npm warn Conflicting peer dependency: three@0.185.1
+npm warn node_modules/three
+npm warn   peer three@">= 0.168.0 < 0.186.0" from postprocessing@6.39.2
+npm warn   node_modules/@react-three/postprocessing/node_modules/postprocessing
+npm warn     postprocessing@"^6.32.1" from @react-three/postprocessing@2.19.1
+npm warn     node_modules/@react-three/postprocessing
+npm warn     1 more (n8ao)
+npm warn deprecated next@14.2.5: This version has a security vulnerability. Please upgrade to a patched version. See https://nextjs.org/blog/security-update-2025-12-11 for more details.

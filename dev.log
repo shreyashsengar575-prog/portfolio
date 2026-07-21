@@ -1,0 +1,13 @@
+
+> futuristic-portfolio@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 6.7s
+ ○ Compiling / ...
+ ✓ Compiled / in 37.1s (2393 modules)
+ GET / 200 in 38792ms
+ GET / 200 in 5016ms
